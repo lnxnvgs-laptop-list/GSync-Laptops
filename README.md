@@ -7,6 +7,8 @@ Call for Help
 -------------
 Please help us build a comprehensive list of GSync-enabled laptops on which other Linux nerds with nVidia sensibilities can, to an extent, "safely" ~waste money on~ acquire knowing that the laptop would not need its user to resort to any Optimus "hacks" and overrides in order to use the nVidia GPU directly.
 
+tldr: Pull requests welcome.
+
 The actual list
 ---------------
 
