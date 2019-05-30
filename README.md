@@ -12,7 +12,7 @@ tldr: Pull requests welcome.
 The actual list
 ---------------
 
-* _Report Reliability:_ Means "yeah, this laptop's screen is displaying straight out of the nVidia GPU when in Linux".
+* _Report Reliability:_ Means "yeah, this laptop's screen can straight out of the nVidia GPU when in Linux".
 
 |Maker|Model|Screen Specs|GPU|Link to unit|Submitter|Report Reliability*|Price|More|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---:|
