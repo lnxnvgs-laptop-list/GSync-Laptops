@@ -28,9 +28,17 @@ A known ODM that rebrands their stuff for other stores, brands, etc. Essentially
 Santech
 -------
 Clevo-based Italian re-brand.
+* International orders will incur duties
+* Usually near-full customisation
 * [Customer site](https://www.santech.eu/)
 
 EuroCom
 -------
 Clevo-based Canadian re-brand.
+* Offers unlocked BIOS, near-full customisation
 * [Customer site](https://eurocom.com/)
+
+Lenovo
+-------
+Former IBM Thinkpad division. Now owned by Chinese interests.
+* [Customer site](https://www.lenovo.com/us/en/)
