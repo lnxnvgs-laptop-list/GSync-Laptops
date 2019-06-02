@@ -25,4 +25,4 @@ The actual list
 |[Eurocom](OEM_ODM_Brands.md#eurocom)|Tornado F5|15.6", 60Hz+, FHD+|GTX970+, GTX1060+, Quadro Series|[Eurocom](https://eurocom.com/ec/configure(2,384,0)TornadoF5)|ozone89|Unconfirmed|1999 CA$+|Discrete GPU only|
 |[Lenovo](OEM_ODM_Brands.md#lenovo)|Y740 Series|15.6"/17", 144hz, 1080p|[GTX 1060Ti](https://www.lenovo.com/us/en/laptops/legion-laptops/legion-y-series/Lenovo-Legion-Y740-17/p/81UGCTO1WWENUS0/customize), RTX 2060+|[Lenovo](https://www.lenovo.com/us/en/legion/)|cybik|Unconfirmed|1350 US$+|[More](MODEL_COMMENTS.md#lenovo-y740-series)|
 |[Lenovo](OEM_ODM_Brands.md#lenovo)|Y7000|15.6", 144hz, 1080p|GTX 1060|[B&H](https://www.bhphotovideo.com/c/product/1432666-REG/lenovo_81lf0004us_core_i7_8750h_16gb.html)|cybik|Unconfirmed|1100 US$|Likely "Outlet" model|
-|[Lenovo](OEM_ODM_Brands.md#lenovo)|Y540|Unknown|RTX 2060|cybik||Unconfirmed|UNK US$+|[Is a rumor](MODEL_COMMENTS.md#lenovo-y540-series)|
+|[Lenovo](OEM_ODM_Brands.md#lenovo)|Y540|Unknown|RTX 2060||cybik|Unconfirmed|UNK US$+|[Is a rumor](MODEL_COMMENTS.md#lenovo-y540-series)|
