@@ -1,6 +1,11 @@
 More Comments on specific models!
 =================================
 
+ASUS Zephyrus S Series
+----------------------
+* Per a [UltrabookRewview note](https://www.ultrabookreview.com/26602-asus-rog-zephyrus-m-gu502/), the Zephyrus S line is the only line to posess Dual Optimus/GSync (or nVidia-driven GSync).
+  * `There’s no GSync support on this series, the dual Optimus/GSync mode remaining a distinctive feature of the Zephyrus S lineup`
+
 Lenovo Y740 series
 ------------------
 * A G-Sync *option* for the Y540 is rumored.
