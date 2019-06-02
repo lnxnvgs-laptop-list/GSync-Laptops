@@ -7,6 +7,11 @@ ASUS Zephyrus Series
   * `There’s no GSync support on this series, the dual Optimus/GSync mode remaining a distinctive feature of the Zephyrus S lineup`
 * However, some specific sites do mention G-Sync in product details for Zephyrus M units.
 
+Lenovo Y540 series
+------------------
+* At this point in time (Early June, 2019), ultrabookreview.com [states](https://www.ultrabookreview.com/24355-lenovo-legion-y740-y540/) that an update to the Y540 series is coming and that it may be equipped with GSync. 
+  * It's already known that many laptops may already ship with a GSync-capable the panel, but without the internal GPU muscle, the Linux-easy hardware G-Sync method is not guaranteed. 
+
 Lenovo Y740 series
 ------------------
 * A G-Sync *option* for the Y540 is rumored.
