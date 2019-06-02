@@ -29,6 +29,7 @@ Santech
 -------
 Clevo-based Italian re-brand.
 * International orders will incur duties
+* May use desktop-grade components
 * Usually near-full customisation
 * [Customer site](https://www.santech.eu/)
 
@@ -36,6 +37,7 @@ EuroCom
 -------
 Clevo-based Canadian re-brand.
 * Offers unlocked BIOS, near-full customisation
+* May use desktop-grade components
 * [Customer site](https://eurocom.com/)
 
 Lenovo
