@@ -4,6 +4,7 @@ Clevo Models and Variants
 P75?DM2-G
 ---------
 * Usually uses MXM technology for laptop GPU upgradability
+* No Optimus :D
 * Variants
   * [Eurocom Sky X4E2](http://www.eurocom.com/ec/configure%282,387,0%29SkyX4E2)
   * [Origin Eon 15-X (2016 model)](https://www.originpc.com/gaming/laptops/eon15-x/)
