@@ -18,7 +18,7 @@ The actual list
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---:|
 |[ASUS](OEM_ODM_Brands.md#asus)|GM501GS-XS74|15.6", 144hz, 1080p|GTX 1070|[Amazon Smile](https://smile.amazon.com/dp/B07BSKLV3K/)|Brainiarc7|Assumed as User-confirmed|1550 US$|[Setup gist](https://gist.github.com/Brainiarc7/c3fa09bc2ecb4153434cd98b6fb06238)|
 |[Dell](OEM_ODM_Brands.md#dell)|G series 15-5590|15.6", 144hz, 1080p|RTX 2060|[Dell](https://www.dell.com/en-us/shop/gaming-and-games/dell-g5-15-gaming/spd/g-series-15-5590-laptop/gnvca5cr042es)|cybik|Unconfirmed|1500 US$||
-|[Clevo](OEM_ODM_Brands.md#clevo)|P75?DM2-G|15.6", 120hz, 1080p|GTX 1070|[See Clevo list](clevo/MODELS.md#p75dm2-g)|Brainiarc7|Owned by reporter||No Optimus :D<br/>[More details](https://gist.github.com/Brainiarc7/6a1652d4da6a30ae3c525c7d063d1277)<br/>[Tuning](https://gist.github.com/Brainiarc7/ba998de74aec480c25dd16f064a6d413)|
+|[Clevo](OEM_ODM_Brands.md#clevo)|P75?DM2-G|15.6", 120hz, 1080p|GTX 1070|[See Clevo list](clevo/MODELS.md#p75dm2-g)|Brainiarc7|Owned by reporter||[More details](https://gist.github.com/Brainiarc7/6a1652d4da6a30ae3c525c7d063d1277)<br/>[Tuning](https://gist.github.com/Brainiarc7/ba998de74aec480c25dd16f064a6d413)|
 |[Santech](OEM_ODM_Brands.md#santech)|G59|17.3", 144Hz, 1080p+|GTX1060 OR RTX2060+|[Santech](https://www.santech.eu/notebook/g59-series)|ozone89|Unconfirmed|1569 €+||
 |[Eurocom](OEM_ODM_Brands.md#eurocom)|Q8|17.3", 60+, FHD+|GTX1070|[Eurocom](https://eurocom.com/ec/configure(2,401,0)EurocomQ8)|ozone89|Unconfirmed|2759 CA$+|MS Hybrid Graphics (branded)|
 |[Eurocom](OEM_ODM_Brands.md#eurocom)|Sky X9E2|17.3", 60Hz+, FHD+|GTX1060+, SLI variants|[Eurocom](https://eurocom.com/ec/configure(2,385,0)SkyX9E2)|ozone89|Unconfirmed|2999 CA$+||
