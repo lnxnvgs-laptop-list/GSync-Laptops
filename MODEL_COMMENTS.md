@@ -7,6 +7,10 @@ ASUS Zephyrus Series
   * `There’s no GSync support on this series, the dual Optimus/GSync mode remaining a distinctive feature of the Zephyrus S lineup`
 * However, some specific sites do mention G-Sync in product details for Zephyrus M units.
 
+Dell G5/G7 Series
+-----------------
+* Per a [reddit thread](https://www.reddit.com/r/Dell/comments/b0klx6/g5g7_with_gsync/), it appears Dell is somewhat falsely advertizing the G-Sync feature on Dell G5 and G7 units.
+
 Lenovo Y540 series
 ------------------
 * At this point in time (Early June, 2019), ultrabookreview.com [states](https://www.ultrabookreview.com/24355-lenovo-legion-y740-y540/) that an update to the Y540 series is coming and that it may be equipped with GSync. 
