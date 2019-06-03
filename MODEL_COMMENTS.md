@@ -10,7 +10,8 @@ ASUS Zephyrus Series
 Lenovo Y540 series
 ------------------
 * At this point in time (Early June, 2019), ultrabookreview.com [states](https://www.ultrabookreview.com/24355-lenovo-legion-y740-y540/) that an update to the Y540 series is coming and that it may be equipped with GSync. 
-  * It's already known that many laptops may already ship with a GSync-capable the panel, but without the internal GPU muscle, the Linux-easy hardware G-Sync method is not guaranteed. 
+  * It's already known that many laptops may already ship with a GSync-capable the panel, but without the internal GPU muscle, the Linux-easy hardware G-Sync method is not guaranteed.
+  * A chat with Lenovo support *seems* to indicate the Y540 configurations with 144Hz panes will indeed support G-Sync. I've not confirmed that it was with a specific nVidia GPU, nor have I confirmed actual hardware support. Hopefully, reviews of the Y540 will come out soon. *--@cybik*
 
 Lenovo Y740 series
 ------------------
