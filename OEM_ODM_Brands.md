@@ -9,6 +9,8 @@ Known to most.
 * *Pros*: Over-the-top game sub-brand
 * *Cons*: Over-the-top game sub-brand
 * [Customer Site](https://www.asus.com/)
+* Series Comments
+  * Per [this page](https://www.notebookcheck.net/Asus-ROG-Zephyrus-S-GX531GS-i7-8750H-GTX-1070-Max-Q-FHD-Laptop-Review.357366.0.html), I am led to believe that the GX501 line is more likely to have G-Sync, while the GX531 series, if not _explicitely_ stating it, is likely to **not** be equipped with it.
 
 Dell
 ----
